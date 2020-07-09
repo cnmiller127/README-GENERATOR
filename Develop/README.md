@@ -1,12 +1,12 @@
-# Asteroid Creater
+# Professional Project
 
 ## Description
 
-It is used to make asteroids
+This project is a professional application. This program helps you decide what to do in order to be more professional. This does not come natural to everyone but this application will assist!
 
 ## License
 
-MIT License [MIT]
+GNU Lesser General Public License Family [lgpl]
 ## Table of Contents
 
 *[Installation](#Installation)
@@ -21,15 +21,15 @@ MIT License [MIT]
 
 ## Installation
 
-visual studio
+npm install
 
 ## Usage
 
-They run it in visual studio
+They need to install it and run it in Node.js outside of the browser.
 
 ## Contribution
 
-None
+Anyone can contribute, but contributions will be inspected and must be approved by a project leader before the changes are deployed.
 
 ## Testing
 
