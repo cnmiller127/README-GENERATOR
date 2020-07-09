@@ -1,46 +1,40 @@
-# Read Me Generator
+# TOOL
 
 #### License
 
-GNU Lesser General Public License Family [lgpl]
+zLib License [zlib]
 ## Description
 
-This project makes it simple to generate ReadMe.md files. 
+PHISH
 
 ## Table of Contents
 
-[Installation](#Installation)
+*[Installation](#Installation)
 
-[Usage](#Usage)
+*[Usage](#Usage)
 
-[Contribution](#Contribution)
+*[Contribution](#Contribution)
 
-[Testing](#Testing)
+*[Testing](#Testing)
 
-[Questions](#Questions)
+*[Questions](#Questions)
 
 ## Installation
 
-The user clones this repo and runs index.js in the terminal using node.js
+visual studio
 
 ## Usage
 
-Run in terminal with node.js and answer the command prompt questions
+Pycharm
 
 ## Contribution
 
-Feel free to edit
+DANIEL EDWIN CAREY
 
 ## Testing
 
-Try it out and if the information you input is not properly represented, there is a bug.
+run it bro
 
 ## Questions
 
-### E-mail
-
-cnmiller127@gmail.com
-
-### Github
-
-[My Github Profile](https://github.com/cnmiller127) 
+If you have any questions you may reach me at cnmiller127@gmail.com. You may also visit [My Github Profile](https://github.com/cnmiller127)

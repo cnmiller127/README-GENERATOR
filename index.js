@@ -15,20 +15,23 @@ const questions = [
         message: "Describe your project: "
     },
     {
-      type: "input",
+      type: "list",
       name: "installation",
-      message: "How does the user install this application? "
+      message: "How does the user install this application? ",
+      choices: ["npm install", "visual studio" ]
   },
   {
-    type: "input",
+    type: "list",
     name: "usage",
-    message: "How does the user operate this application? "
+    message: "How does the user operate this application? ",
+    choices: ["node index.js", "open html in browser", "Pycharm"]
+
 },
 
 {
   type: "list",
   name: "license",
-  message: "How would you like to license this username? ",
+  message: "How would you like to license this project? ",
   choices: ["Academic Free License [afl-3.0]", "Apache License 2.0 [apache-2.0]", "GNU Lesser General Public License Family [lgpl]",
   "Microsoft Public License [ms-pl]", "MIT License [MIT]", "zLib License [zlib]"
 
@@ -78,11 +81,11 @@ ${license}
 ## Description\n
 ${description}\n
 ## Table of Contents\n
-[Installation](#Installation)\n
-[Usage](#Usage)\n
-[Contribution](#Contribution)\n
-[Testing](#Testing)\n
-[Questions](#Questions)\n
+*[Installation](#Installation)\n
+*[Usage](#Usage)\n
+*[Contribution](#Contribution)\n
+*[Testing](#Testing)\n
+*[Questions](#Questions)\n
 ## Installation\n
 ${installation}\n
 ## Usage\n
@@ -92,10 +95,7 @@ ${contribution}\n
 ## Testing\n
 ${testing}\n
 ## Questions\n
-### E-mail\n
-${email}\n
-### Github\n
-[My Github Profile](https://github.com/${github}) `, 
+If you have any questions you may reach me at ${email}. You may also visit [My Github Profile](https://github.com/${github})`, 
     
     
     function(err) {
