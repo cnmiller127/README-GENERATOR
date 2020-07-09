@@ -1,11 +1,11 @@
-# String Theory Solver
+# Read Me Generator
 
-## License
+#### License
 
 GNU Lesser General Public License Family [lgpl]
 ## Description
 
-This project solves string theory, merging quantum physics and general relativity.
+This project makes it simple to generate ReadMe.md files. 
 
 ## Table of Contents
 
@@ -21,19 +21,19 @@ This project solves string theory, merging quantum physics and general relativit
 
 ## Installation
 
-They just visit the deployed git pages site shown on this repo sidebar.
+The user clones this repo and runs index.js in the terminal using node.js
 
 ## Usage
 
-Listen to prompts in program
+Run in terminal with node.js and answer the command prompt questions
 
 ## Contribution
 
-DO NOT MESS WITH THE MATH
+Feel free to edit
 
 ## Testing
 
-DO NOT MESS WITH THE MATH
+Try it out and if the information you input is not properly represented, there is a bug.
 
 ## Questions
 

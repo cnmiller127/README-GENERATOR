@@ -41,7 +41,7 @@ const questions = [
 },
 {
   type: "input",
-  name: "test",
+  name: "testing",
   message: "How would should this application be tested? "
 },
 {
@@ -69,11 +69,11 @@ inquirer.prompt(questions).then(function(data) {
 
   var filename = "README.md";
   console.log(data)
-  const {title, description, installation, usage, license, contribution, test, email, github} = data;
+  const {title, description, installation, usage, license, contribution, testing, email, github} = data;
 
   fs.writeFile(filename, 
   `# ${title}\n
-## License\n
+#### License\n
 ${license}
 ## Description\n
 ${description}\n
@@ -90,7 +90,7 @@ ${usage}\n
 ## Contribution\n
 ${contribution}\n
 ## Testing\n
-${contribution}\n
+${testing}\n
 ## Questions\n
 ### E-mail\n
 ${email}\n
