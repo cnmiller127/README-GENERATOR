@@ -29,7 +29,10 @@ const questions = [
   type: "list",
   name: "license",
   message: "How would you like to license this username? ",
-  choices: ["By username", "By repository name"]
+  choices: ["Academic Free License [afl-3.0]", "Apache License 2.0 [apache-2.0]", "GNU Lesser General Public License Family [lgpl]",
+  "Microsoft Public License [ms-pl]", "MIT License [MIT]", "zLib License [zlib]"
+
+]
 },
 {
   type: "input",
@@ -70,6 +73,8 @@ inquirer.prompt(questions).then(function(data) {
 
   fs.writeFile(filename, 
   `# ${title}\n
+## License\n
+${license}
 ## Description\n
 ${description}\n
 ## Table of Contents\n
