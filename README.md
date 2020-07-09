@@ -1,8 +1,11 @@
-# String theory solved
+# String Theory Solver
 
+## License
+
+GNU Lesser General Public License Family [lgpl]
 ## Description
 
-WE solved the point of life
+This project solves string theory, merging quantum physics and general relativity.
 
 ## Table of Contents
 
@@ -18,19 +21,19 @@ WE solved the point of life
 
 ## Installation
 
-they just insert the brain chip into their head
+They just visit the deployed git pages site shown on this repo sidebar.
 
 ## Usage
 
-the heart beats and it works auto
+Listen to prompts in program
 
 ## Contribution
 
-no one should touch this please
+DO NOT MESS WITH THE MATH
 
 ## Testing
 
-no one should touch this please
+DO NOT MESS WITH THE MATH
 
 ## Questions
 
