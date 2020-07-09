@@ -69,22 +69,28 @@ inquirer.prompt(questions).then(function(data) {
   const {title, description, installation, usage, license, contribution, test, email, github} = data;
 
   fs.writeFile(filename, 
-  `# ${title} \n 
-  ## Description \n
-  ${description} \n
-  ## Installation \n
-  ${installation} \n
-  ## Usage \n
-  ${usage} \n
-  ## Contribution \n
-  ${contribution} \n
-  ## Tests \n
-  ${contribution} \n
-  ## Questions \n
-  ### E-mail
-  ${email}
-  ### Github
-  [My Github Profile](https://github.com/${github}) `, 
+  `# ${title}\n
+## Description\n
+${description}\n
+## Table of Contents\n
+[Installation](#Installation)\n
+[Usage](#Usage)\n
+[Contribution](#Contribution)\n
+[Testing](#Testing)\n
+[Questions](#Questions)\n
+## Installation\n
+${installation}\n
+## Usage\n
+${usage}\n
+## Contribution\n
+${contribution}\n
+## Testing\n
+${contribution}\n
+## Questions\n
+### E-mail\n
+${email}\n
+### Github\n
+[My Github Profile](https://github.com/${github}) `, 
     
     
     function(err) {

@@ -1,30 +1,43 @@
-# Date generator 
- 
-    ## Description 
+# String theory solved
 
-    lines up dates 
+## Description
 
-    ## Installation 
+WE solved the point of life
 
-    they install it duh 
+## Table of Contents
 
-    ## Usage 
+[Installation](#Installation)
 
-    they operate it duh 
+[Usage](#Usage)
 
-    ## Contribution 
+[Contribution](#Contribution)
 
-    none bro 
+[Testing](#Testing)
 
-    ## Tests 
+[Questions](#Questions)
 
-    none bro 
+## Installation
 
-    ## Questions 
+they just insert the brain chip into their head
 
-    ### E-mail
-    cnmiller127@gmail.com
-    ### Github
-    [My Github Profile](https://github.com/cnmiller127)
-    
-    
+## Usage
+
+the heart beats and it works auto
+
+## Contribution
+
+no one should touch this please
+
+## Testing
+
+no one should touch this please
+
+## Questions
+
+### E-mail
+
+cnmiller127@gmail.com
+
+### Github
+
+[My Github Profile](https://github.com/cnmiller127) 
