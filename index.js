@@ -15,16 +15,15 @@ const questions = [
         message: "Describe your project: "
     },
     {
-      type: "list",
+      type: "input",
       name: "installation",
       message: "How does the user install this application? ",
-      choices: ["npm install", "visual studio" ]
+      default: "npm install"
   },
   {
-    type: "list",
+    type: "input",
     name: "usage",
     message: "How does the user operate this application? ",
-    choices: ["node index.js", "open html in browser", "Pycharm"]
 
 },
 
@@ -45,7 +44,8 @@ const questions = [
 {
   type: "input",
   name: "testing",
-  message: "How would should this application be tested? "
+  message: "How would should this application be tested?",
+  default: "npm test"
 },
 {
   type: "input",
@@ -95,7 +95,7 @@ ${contribution}\n
 ## Testing\n
 ${testing}\n
 ## Questions\n
-If you have any questions you may reach me at ${email}. You may also visit [My Github Profile](https://github.com/${github})`, 
+If you have any questions you may reach me at ${email}. You may also visit [my GitHub profile](https://github.com/${github})`, 
     
     
     function(err) {

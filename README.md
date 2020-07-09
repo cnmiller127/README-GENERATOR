@@ -1,11 +1,11 @@
-# TOOL
+# DRUM CENTER
 
 #### License
 
-zLib License [zlib]
+GNU Lesser General Public License Family [lgpl]
 ## Description
 
-PHISH
+All you can want to learn, hear, know, and even taste about the drums.
 
 ## Table of Contents
 
@@ -21,20 +21,20 @@ PHISH
 
 ## Installation
 
-visual studio
+they use visual studio and run it
 
 ## Usage
 
-Pycharm
+i just told you
 
 ## Contribution
 
-DANIEL EDWIN CAREY
+NONE 
 
 ## Testing
 
-run it bro
+npm test
 
 ## Questions
 
-If you have any questions you may reach me at cnmiller127@gmail.com. You may also visit [My Github Profile](https://github.com/cnmiller127)
+If you have any questions you may reach me at cnmiller127@gmail.com. You may also visit [my GitHub profile](https://github.com/cnmiller127)
