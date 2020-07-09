@@ -1,12 +1,12 @@
-# DRUM CENTER
+# sdf
 
-#### License
-
-GNU Lesser General Public License Family [lgpl]
 ## Description
 
-All you can want to learn, hear, know, and even taste about the drums.
+fdsa
 
+## License
+
+Academic Free License [afl-3.0]
 ## Table of Contents
 
 *[Installation](#Installation)
@@ -21,20 +21,20 @@ All you can want to learn, hear, know, and even taste about the drums.
 
 ## Installation
 
-they use visual studio and run it
+asdf
 
 ## Usage
 
-i just told you
+adsf
 
 ## Contribution
 
-NONE 
+asdf
 
 ## Testing
 
-npm test
+asdf
 
 ## Questions
 
-If you have any questions you may reach me at cnmiller127@gmail.com. You may also visit [my GitHub profile](https://github.com/cnmiller127)
+If you have any questions you may reach me at asdf. You may also visit [my GitHub profile](https://github.com/asdf)
