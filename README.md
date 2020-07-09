@@ -1,13 +1,13 @@
-# DRUM CENTER
+# DRUM WORLD
 
-#### License
+### Description
 
-GNU Lesser General Public License Family [lgpl]
-## Description
+DRUMMERS WILL LOVE THIS!!! Updates on the drumming community 24/7.
 
-All you can want to learn, hear, know, and even taste about the drums.
+##### License
 
-## Table of Contents
+Apache License 2.0 [apache-2.0]
+### Table of Contents
 
 *[Installation](#Installation)
 
@@ -19,22 +19,22 @@ All you can want to learn, hear, know, and even taste about the drums.
 
 *[Questions](#Questions)
 
-## Installation
+### Installation
 
-they use visual studio and run it
+clone the repo
 
-## Usage
+### Usage
 
-i just told you
+run from visual studio
 
-## Contribution
+### Contribution
 
-NONE 
+The more the merrier. Go ahead and edit away!
 
-## Testing
+### Testing
 
 npm test
 
-## Questions
+### Questions
 
 If you have any questions you may reach me at cnmiller127@gmail.com. You may also visit [my GitHub profile](https://github.com/cnmiller127)

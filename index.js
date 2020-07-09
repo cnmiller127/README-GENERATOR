@@ -76,25 +76,25 @@ inquirer.prompt(questions).then(function(data) {
 
   fs.writeFile(filename, 
   `# ${title}\n
-#### License\n
-${license}
-## Description\n
+### Description\n
 ${description}\n
-## Table of Contents\n
+##### License\n
+${license}
+### Table of Contents\n
 *[Installation](#Installation)\n
 *[Usage](#Usage)\n
 *[Contribution](#Contribution)\n
 *[Testing](#Testing)\n
 *[Questions](#Questions)\n
-## Installation\n
+### Installation\n
 ${installation}\n
-## Usage\n
+### Usage\n
 ${usage}\n
-## Contribution\n
+### Contribution\n
 ${contribution}\n
-## Testing\n
+### Testing\n
 ${testing}\n
-## Questions\n
+### Questions\n
 If you have any questions you may reach me at ${email}. You may also visit [my GitHub profile](https://github.com/${github})`, 
     
     
